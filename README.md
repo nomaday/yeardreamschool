@@ -1,2 +1,2 @@
 # yeardreamschool
-Team project tasks of Year Dream School
+Project tasks of Year Dream School
